@@ -1,4 +1,8 @@
 opensource = "hello"
 print(opensource)
 
-양진혁 202004309 컴퓨터,전자 시스템공학부
+name = "양진혁"
+studentId = "202004309"
+major = "컴퓨터,전자 시스템공학부"
+
+print(name, studentId, major)
