@@ -1,4 +1,4 @@
-opensource = "ello"
+opensource = "hello"
 print(opensource)
 
 name = "양진혁"
